@@ -167,20 +167,6 @@ pdflatex -interaction=nonstopmode informe.tex
 
 El archivo generado será `docs/informe.pdf`. El informe utiliza paquetes habituales de LaTeX; verifica la compilación sin conexión en el equipo donde realizarás la entrega.
 
-## 10. Código reutilizado
-
-Completa la tabla únicamente si reutilizaste código propio que ya estaba en un repositorio tuyo antes de la sesión. Si no reutilizaste código, conserva la frase indicada por el planteamiento.
-
-| Archivo de este repositorio | Repositorio propio de origen (URL) | Archivo y commit de origen | Qué se cambió |
-|---|---|---|---|
-| [ruta o «No aplica»] | [URL o «No aplica»] | [archivo y hash o «No aplica»] | [descripción o «No aplica»] |
-
-**Si no reutilizaste código, reemplaza la tabla por:** `No se reutilizó código`.
-
-## 11. Limitaciones conocidas
-
-[Describe limitaciones verificadas de tu prototipo, por ejemplo, el coordinador como punto único de fallo, ausencia de persistencia o comportamiento ante una desconexión. No incluyas limitaciones que no correspondan a tu implementación.]
-
 ## 12. Autoría y declaración
 
 El código y los resultados documentados deben corresponder al trabajo realizado por el estudiante y cumplir las condiciones de la actividad. Declara aquí la reutilización de código propio, si existió, y verifica que todas las evidencias sean auténticas.
